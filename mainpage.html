@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="searchcss34.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <title>SearchPage</title>
+</head>
+<body>
+  <nav>
+    <label class="logo">Online Bus Booking</label>
+    <ul>
+      <li>
+        <a class="active" href="#">Home</a>
+      </li>
+      <li><a href="index.html">Logout</a></li>
+    </ul>
+</nav><section>
+<form class="box" action="busdetails.php" method="post">
+   <h1>Search bus</h1>
+   <input type="text" name="source" id="startingcity" placeholder="Leaving from" required="required">
+   <input type="text" name="destination" id="destcity" placeholder="Going to" required="required">
+   <input type="date" name="date" id="doj" min="" placeholder="Date of journey" required="required">
+   <input type="submit" name="searchBtn" value="search">
+</form>
+</section>
+</body>
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+    function datepick(){
+      var today = new Date().toISOString().split('T')[0];
+      document.getElementsByName("date")[0].setAttribute('min', today);
+    }
+    $("#doj").click(datepick);
+
+  });
+</script>
