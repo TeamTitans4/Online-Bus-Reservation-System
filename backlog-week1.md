@@ -1,6 +1,6 @@
-Backlog:
+### **Backlog** :
 
-Team Titans (Team-13):
+### **Team Titans (Team-13)** :
 
 | Task                                  | Who             | Status            | Expected Time  | 
 | ------------------------------------- | --------------- | ----------------- | -------------- |
