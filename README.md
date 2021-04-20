@@ -2,6 +2,7 @@
 ***Software Engineering Project*** 
 
 ***Introduction***:
+
  Online bus reservation system is a web based application. 
  This website is useful for booking tickets even when it is dispatched from the source.
  In this situation of emergency for a travel by bus at nights, a person cant book a ticket for his or her travel. 
