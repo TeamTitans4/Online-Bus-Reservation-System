@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Adding Bus Page</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href='https://use.fontawesome.com/releases/v5.8.1/css/all.css'>
+  <link rel="stylesheet" href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css'>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="addbus.css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="cont">
+        <div class="sub-cont">
+          <div class="img">
+            <div class="img-text m-up">
+              <h2>It's time to add Driver</h2>
+              <p>Patience is something you admire in the driver behind you and scorn in the one ahead.</p>
+            </div>
+            <div class="img-text m-in">
+              <h2>Have a look</h2>
+              <p>Is their anything wrong in bus details then go back enter correctly</p>
+            </div>
+            <div class="img-btn">
+              <span class="m-up">Add Driver</span>
+              <span class="m-in">Bus</span>
+            </div>
+          </div>
+          <div class="box">
+            <form name="signup" method="post"  action="adddriver.php" onsubmit="return checkform(this);">
+              <div class="form sign-up">
+                <h2>Details of Driver</h2>
+                <input type="text" name="driver_username" placeholder="Enter full name" required="required">
+                <input type="text" name="driver_id"placeholder="Enter driverId" required="required">
+                <input type="password" name="password" placeholder="Enter password" required="required">
+                <input type="password" name="confirm_password"placeholder="Enter password" required="required">
+                <input type="submit" name="adddriver" value="addDriver">
+            </div>
+          </form>
+          </div>
+        </div>
+        <div class="form sign-in">
+          <div class="box">
+            <form name="myform" method="post"  action="addbus.php">
+              <h2>Add Bus</h2>
+              <input type="text" id="Bus number" placeholder="Bus number" name="bus_no" required="required">
+              <input type="text" id="No of seats" placeholder="No of seats" name="no_of_seats" required="required">
+              <input type="text" id="Bus type" placeholder="Bus type" name="bus_type" required="required">
+              <input type="text" id="Source" placeholder="Source" name="source_city" required="required">
+              <input type="text" id="Destination" placeholder="Destination" name="dst_city" required="required">
+              <input type="text" id="driver id" placeholder="Driver Id" name="driver_id" required="required">
+              <input type="submit" name="addBus" value="submit">
+            </form>
+          </div>
+        </div>
+  </div>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
