@@ -1,8 +1,8 @@
-**Minutes Of Meeting (MOM):**
+**Minutes Of Meeting (MOM) :**
 
-**Team Titans (Team-13):**
+**Team Titans (Team-13) :**
 
-**WEEK-2:**
+**WEEK-2 :**
 
 | Source of Meeting  | Minutes of Meeting | Time of meeting (Start Time) | Date of Meeting  |
 | ------------------ | ------------------ | ---------------------------- | ---------------- |
