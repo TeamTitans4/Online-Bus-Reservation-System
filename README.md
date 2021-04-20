@@ -24,11 +24,11 @@ Software Engineering Project
 **Front end** : 
 
 Responsive Web ( HTML, CSS )
-Java script
-Bootstrap
-PHP
+Java script,
+Bootstrap,
+PHP.
 
 **Back end** : 
-My SQL 
-Postgre SQL
+My SQL ,
+Postgre SQL.
 
