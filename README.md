@@ -9,19 +9,24 @@ Software Engineering Project - Online Bus Reservation System
  So, this website make the person to know that there is a empty seat to travel.
  
  **Basic idea:**
-  https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
-  https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
-  https://teamtitans8.blogspot.com/2021/02/version-2-online-bus-reservation-system.html
-  https://teamtitans8.blogspot.com/2021/02/final-version-online-bus-reservation.html
+ **Blog-1**: https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
+ 
+ **Blog-2** https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
+ 
+**Blog-3**  https://teamtitans8.blogspot.com/2021/02/version-2-online-bus-reservation-system.html
+
+**Blog-4** https://teamtitans8.blogspot.com/2021/02/final-version-online-bus-reservation.html
 
  
+  **Technologies** :
  
- **Technologies** :
 **Front end** : 
+
 Responsive Web ( HTML, CSS )
 Java script
 Bootstrap
 PHP
+
 **Back end** : 
 My SQL 
 Postgre SQL
