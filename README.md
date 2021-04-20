@@ -1,4 +1,4 @@
-# Online-Bus-Reservation-System
+# Online Bus Reservation System
 Software Engineering Project 
 
 **Introduction**:
