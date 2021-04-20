@@ -1,4 +1,4 @@
-**Minutes Of Meeting(MOM):**
+**Minutes Of Meeting (MOM):**
 
 **Team Titans (Team-13):**
 
