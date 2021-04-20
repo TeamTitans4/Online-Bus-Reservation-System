@@ -11,13 +11,13 @@
  
  **Basic idea:**
  
- **Blog-1**: https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
+ **Blog-1** : https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
  
- **Blog-2**: https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
+ **Blog-2** : https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
  
-**Blog-3** : https://teamtitans8.blogspot.com/2021/02/version-2-online-bus-reservation-system.html
+**Blog-3**  : https://teamtitans8.blogspot.com/2021/02/version-2-online-bus-reservation-system.html
 
-**Blog-4** : https://teamtitans8.blogspot.com/2021/02/final-version-online-bus-reservation.html
+**Blog-4**  : https://teamtitans8.blogspot.com/2021/02/final-version-online-bus-reservation.html
 
  
   **Technologies** :
