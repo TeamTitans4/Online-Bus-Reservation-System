@@ -1,5 +1,5 @@
 # Online-Bus-Reservation-System
-Software Engineering Project - Online Bus Reservation System
+Software Engineering Project 
 
 **Introduction**:
  Online bus reservation system is a web based application. 
