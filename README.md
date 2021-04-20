@@ -9,6 +9,7 @@ Software Engineering Project - Online Bus Reservation System
  So, this website make the person to know that there is a empty seat to travel.
  
  **Basic idea:**
+ 
  **Blog-1**: https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
  
  **Blog-2** https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
