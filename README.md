@@ -8,6 +8,13 @@ Software Engineering Project - Online Bus Reservation System
  This website helps the person to give him the details of vacancy of the seats in the bus, he or she needs to travel.
  So, this website make the person to know that there is a empty seat to travel.
  
+ **Basic idea:**
+  https://teamtitans8.blogspot.com/2021/01/bus-reservation-system.html
+  https://teamtitans8.blogspot.com/2021/01/online-bus-reservation-system-project.html
+  https://teamtitans8.blogspot.com/2021/02/version-2-online-bus-reservation-system.html
+  https://teamtitans8.blogspot.com/2021/02/final-version-online-bus-reservation.html
+
+ 
  
  **Technologies** :
 **Front end** : 
