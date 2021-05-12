@@ -25,13 +25,17 @@
 **Front end** : 
 
 Responsive Web ( HTML, CSS )
+
 Java script,
+
 Bootstrap,
+
 PHP.
 
 **Back end** : 
 
 My SQL ,
+
 Postgre SQL.
 
 * [Bus Reservation System Website Link](https://bus-reservation21.000webhostapp.com/) 
